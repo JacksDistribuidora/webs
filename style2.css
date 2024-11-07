@@ -49,5 +49,9 @@ a{
     line-height: 8;
 }
 body{
-    background-color: bisque
+    padding: 0;
+    margin: 0;
+    background: url(imagenes/Arte\ De\ Pirata.jfif);
+    background-size: cover;
+    background-position: center;
 }
