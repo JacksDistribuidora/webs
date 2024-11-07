@@ -1,4 +1,5 @@
 h2{
+    height: -12px;
     color: black;
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-size: 45px;
@@ -12,6 +13,7 @@ h2{
     border-radius: 30px;
 }
 p{
+    height: -12px;
     color: black;
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-size: 34px;
@@ -26,6 +28,7 @@ p{
     border-radius: 30px;
 }
 div{
+    height: -12px;
     color: red;
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-size: 22px;
@@ -35,6 +38,7 @@ div{
     margin: auto;
 }
 a{
+    height: -12px;
     text-decoration: none;
     color:black;
     background-color: bisque;
@@ -49,9 +53,13 @@ a{
     line-height: 8;
 }
 body{
+    height: -12px;
     padding: 0;
     margin: 0;
     background: url(imagenes/Jacs3.jpeg);
     background-size: cover;
-    background-position: center;
+    background-position: bottom;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-color: black;
 }
