@@ -49,6 +49,7 @@ a{
     line-height: 8;
 }
 body{
+    height: -20px;
     padding: 0;
     margin: 0;
     background: url(imagenes/Jacs3.jpeg);
