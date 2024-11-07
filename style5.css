@@ -51,7 +51,9 @@ a{
 body{
     padding: 0;
     margin: 0;
-    background: url(imagenes/Jacks.jpeg);
-    background-size: contain;
-    background-position: center;
+    background: url(imagenes/Jacs3.jpeg);
+    background-size: cover;
+    background-position: bottom;
+    background-repeat: no-repeat;
+    background-color: black;
 }
