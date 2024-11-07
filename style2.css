@@ -1,4 +1,5 @@
 h2{
+    height: 12px;
     color: black;
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-size: 45px;
@@ -27,6 +28,7 @@ p{
     border-radius: 30px;
 }
 div{
+    height: 12px;
     color: red;
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-size: 22px;
@@ -36,6 +38,7 @@ div{
     margin: auto;
 }
 a{
+    height: 12px;
     text-decoration: none;
     color:black;
     background-color: bisque;
